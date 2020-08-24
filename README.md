@@ -1,7 +1,5 @@
 # I am Metalsimyaci 👋
 
-## Hellüüü
-
 - 🔭 I’m currently **working** on
   - vuejs
   - typescript
