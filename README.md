@@ -1,4 +1,5 @@
 ✨ Metalsimyaci ✨
+
 Ben deniz Hasan. Kend halinde ejderhası peşinde bir yazılımcıyım. Yeni şeyleri sever, merak eder, araştırırım. Ayıptır söylemesi biraz detaycıyım.
 
 - 💪 **Working**
