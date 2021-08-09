@@ -1,6 +1,7 @@
 Ben Hasan. Namı değer metalsimyaci.
 
 Kend halinde ejderhası peşinde bir yazılımcıyım. 
+
 Kahveyi, müzik dinlemeyi, kitap, manga ve webtoon okumayı, oyun oynamayı ve anime izlemeyi severim.
 
 Nicktende anlaşıldığı üzere [FMA](https://tr.wikipedia.org/wiki/%C3%87elik_Simyac%C4%B1) ve onun [Eşit Takas prensibine](https://otakuturk.net/esit-takas-ilkesi_1266) inanlardanım.
