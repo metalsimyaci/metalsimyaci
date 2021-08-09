@@ -1,6 +1,4 @@
-✨ Metalsimyaci ✨
-
-Ben deniz Hasan. Namı değer metalsimyaci.
+Ben Hasan. Namı değer metalsimyaci.
 
 Kend halinde ejderhası peşinde bir yazılımcıyım. 
 Müzik dinlemeyi, kitap, manga ve webtoon okumayı, oyun oynamayı ve anime izlemeyi severim.
