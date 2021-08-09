@@ -1,23 +1,30 @@
 ✨ Metalsimyaci ✨
 
-Ben deniz Hasan. Kend halinde ejderhası peşinde bir yazılımcıyım. Yeni şeyleri sever, merak eder, araştırırım. Ayıptır söylemesi biraz detaycıyım.
+Ben deniz Hasan. Namı değer metalsimyaci.
 
-- 💪 **Working**
-  - vuejs
-  - typescript
-  - .Net Core
-  - .Net
+Kend halinde ejderhası peşinde bir yazılımcıyım. 
+Müzik dinlemeyi, kitap, manga ve webtoon okumayı, oyun oynamayı ve anime izlemeyi severim.
 
-- 📚 **Learning**
-  - Dart & Flutter
-  - golang
-  - python
+Nicktende anlaşıldığı üzere [FMA](https://tr.wikipedia.org/wiki/%C3%87elik_Simyac%C4%B1) ve onun [Eşit Takas prensibine](https://otakuturk.net/esit-takas-ilkesi_1266) inanlardanım.
 
-- ❓ **Ask me** ¿
+Yeni şeyleri sever, merak eder, araştırırım, kazınırım. Ayıptır söylemesi biraz detaycıyımdır.
+
+- 💪 **Elimden gelenler**
+  - [vuejs](https://vuejs.org/)
+  - [typescript](https://www.typescriptlang.org/)
+  - [.Net](https://dotnet.microsoft.com/) (c#, Web, WebAPI, SignrlR, WPF)  
+
+- 📚 **Öğrenmeye çalıştıklarım**
+  - [Dart](https://dart.dev/) & [Flutter](https://flutter.dev/)
+  - [golang](https://golang.org/)
+  - [python](https://www.python.org/)
+
+- ❓ **Bana sorduğunuzda cevap alabileceğiniz konu başlıkları** ¿
   - Development (.Net, .NetCore, vue, tsql)
-  - Dungeon & Dragon
+  - Dungeon & Dragon, Elfler, cüceler
+  - Anime, Manga, Webtoon, Mahwa
 
-- 🕵️‍ **Reseach**
+- 🕵️‍ **Üzerinde çalışmaya çalıştıklarım**
   - ubuntu
   - docker
   - kubetenetes
