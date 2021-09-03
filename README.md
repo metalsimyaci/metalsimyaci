@@ -11,7 +11,7 @@ Yeni şeyleri sever, merak eder, araştırır, kazınırım. Ayıptır söylemes
 - 💪 **Elimden gelenler**
   - [vuejs](https://vuejs.org/)
   - [typescript](https://www.typescriptlang.org/)
-  - [.Net](https://dotnet.microsoft.com/) (c#, Web, WebAPI, SignrlR, WPF)
+  - [.Net](https://dotnet.microsoft.com/) (c#, Web, WebAPI, SignalR, WPF)
   - [Javascript](https://www.javascript.com/)
 
 - 📚 **Öğrenmeye çalıştıklarım**
