@@ -38,3 +38,4 @@ Bana ulaşabileceğiniz yöntemler 📩
 - [Şatom](https://hasanural.com)
 - [Twitter](https://twitter.com/metalsimyaci)
   
+![snake svg](https://github.com/metalsimyaci/metalsimyaci/blob/output/github-contribution-grid-snake.svg)
