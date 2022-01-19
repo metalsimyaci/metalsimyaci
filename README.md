@@ -37,5 +37,15 @@ Bana ulaşabileceğiniz yöntemler 📩
 - [Github](https://github.com/metalsimyaci)
 - [Şatom](https://hasanural.com)
 - [Twitter](https://twitter.com/metalsimyaci)
-  
+
 ![snake svg](https://github.com/metalsimyaci/metalsimyaci/blob/output/github-contribution-grid-snake.svg)
+
+ <!--Statistics-->
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=metalsimyaci&show_icons=true&theme=onedark" />
+  <!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=metalsimyaci&theme=onedark&date_format=j%20M%5B%20Y%5D" />-->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metalsimyaci&layout=compact&theme=onedark" />
+</div>
+<!--<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=metalsimyaci&theme=xcode" /></div>-->
+  
+
