@@ -15,7 +15,7 @@ jobs:
         with:
           github_user_name: metalsimyaci
           gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_pat: dist/github-contribution-grid-snake.svg
+          svg_out_path: dist/github-contribution-grid-snake.svg
       - run: git status
       - name: Push changes
         uses: ad-m/github-push-action@master
